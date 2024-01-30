@@ -25,3 +25,8 @@ Influenza deaths by geography, time, age, and gender was originally compiled by 
 Population data by geography was originally compiled by the US Census Bureau. I used an edited version produced by Amazon AWS, which can be found [here](https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv).
 
 Additional datasets originally compiled by the CDC were edited and provided by CareerFoundry for the project. However, the additional datasets were not useful to the completion of the project and were not used. 
+
+## Deliverables
+
+- Link to storyboard is [here](https://public.tableau.com/app/profile/brian.dempster/viz/2_9-Presentation/TheGoodFight?publish=yes)
+- Link to presentation is [here](https://youtu.be/Xt-tyuItemM)
